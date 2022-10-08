@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Ammar Yasir
-   A Developer who loves to code.
-
+- A Developer who loves to code.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Blockchain technology.
 - 💞️ I’m looking to collaborate on open source projects.
