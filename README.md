@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Blockchain technology.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can reach mme at yasir.ammar161201@gmail.com
+- 📫 You can reach me at yasir.ammar161201@gmail.com
 
 <!---
 MYasir161201/MYasir161201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
