@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mohammed Ammar Yasir.
-- A Developer who loves to code.
+- <h1>👋 Hi, I’m Mohammed Ammar Yasir.</h1>
+- <b>A Developer who loves to code.</b>
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Blockchain technology.
 - 💞️ I’m looking to collaborate on open source projects.
